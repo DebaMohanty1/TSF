@@ -1,3 +1,3 @@
 # TSF
-Task 1
-simple prediction model using linear regression
+Task 1:
+Simple prediction model using linear regression
